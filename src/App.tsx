@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
-import { ButtonMonoInvert } from '@polkadotcloud/core-ui/index'
+import { ButtonMonoInvert } from '@polkadotcloud/core-ui'
 
 import './App.css'
 
